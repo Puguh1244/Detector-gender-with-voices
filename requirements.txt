@@ -2,7 +2,6 @@ streamlit
 numpy
 scikit-learn
 joblib
-json
 pandas
 librosa
 imbalanced-learn
