@@ -1,7 +1,9 @@
 streamlit
 numpy
-pandas
 scikit-learn
-librosa
 joblib
+json
+pandas
+librosa
+imbalanced-learn
 matplotlib
